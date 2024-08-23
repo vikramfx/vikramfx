@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Kumar</h1>
 <h3 align="center">Full-stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.cuMZ6JFYK2ksZJommjWd8AHaE7&pid=Api&P=0&h=180" >
+<img align="centre" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.cuMZ6JFYK2ksZJommjWd8AHaE7&pid=Api&P=0&h=180" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramfx&label=Profile%20views&color=0e75b6&style=flat" alt="vikramfx" /> </p>
 
