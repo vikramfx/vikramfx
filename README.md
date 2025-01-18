@@ -1,116 +1,137 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Vikram+Kumar;Full-Stack+Developer;Mobile+App+Developer;MERN+Stack+Expert;React+Native+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hi%20👋,%20I'm%20Vikram%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Mobile%20App%20Developer&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <a href="https://github.com/vikramfx" target="_blank">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikramfx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/vikramfx?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=500&lines=MERN+Stack+Developer;Laravel+Developer;React+Native+Developer;AWS+%26+DevOps+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/vikramfx">
-    <img src="https://github-stats-alpha.vercel.app/api?username=vikramfx&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Github Stats" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vikramfx&style=for-the-badge&color=ff1cf7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vikramfx?style=for-the-badge&color=ff1cf7&label=Followers" alt="Followers" />
 </div>
 
-## 🎯 Expertise
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Full-Stack Development</h3>
-      <img width="100%" src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb,nextjs&perline=3" />
-      <p>Building scalable web applications with modern technologies</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📱 Mobile Development</h3>
-      <img width="100%" src="https://skillicons.dev/icons?i=react,javascript,androidstudio,firebase,redux&perline=3" />
-      <p>Crafting seamless mobile experiences with React Native</p>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary>🎯 Frontend Development</summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,redux" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40">
+</div>
+</details>
 
-## 💻 Tech Stack
+<details open>
+<summary>📱 Mobile Development</summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,androidstudio,firebase" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40">
+</div>
+</details>
+
+<details open>
+<summary>💻 Backend Development</summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,postgresql" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40">
+</div>
+</details>
+
+<details open>
+<summary>☁️ DevOps & Tools</summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode" />
+  <img src="https://user-images.daily.dev/gifs/coding-night.gif" width="40">
+</div>
+</details>
 
 <div align="center">
-  
-  ```javascript
-  const vikram = {
-    frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind', 'Redux'],
-    backend: ['Node.js', 'Express', 'PHP', 'RESTful APIs'],
-    mobile: ['React Native', 'Expo', 'Android Studio'],
-    database: ['MongoDB', 'MySQL', 'PostgreSQL'],
-    devops: ['Docker', 'AWS', 'Git', 'CI/CD'],
-    currentFocus: 'Building scalable full-stack applications'
-  };
-  ```
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 📈 GitHub Stats
+<h2 align="center">📊 My Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramfx&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" width="49%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramfx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" alt="stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramfx&custom_title=Vikram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F0FF&line=FF1CF7&point=00F0FF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
-</div>
-
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramfx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-## 🔧 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/vikramfx?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_REPO_NAME&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_REPO_NAME&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-  </a>
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/vikram-kumar01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=brightness(1.2)" />
-  </a>
-  <a href="mailto:vikramsinghania333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vikram.fx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vikramfx/vikramfx/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikramfx&custom_title=Vikram's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Vikram's Graph" width="100%">
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramfx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+<div align="center">
+  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=vikramfx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="vikramfx's stats" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=vikramfx&theme=radical&hide_border=true&background=0D1117" alt="vikramfx's streak" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramfx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="vikramfx's languages" />
+</div>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramfx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<h2 align="center">👨‍💻 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/vikramfx/project1">
+    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/vikramfx/project2">
+    <img width="370px" src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_2&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/vikram-kumar01" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90" />
+  </a>
+  <a href="mailto:vikramsinghania333@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70" />
+  </a>
+  <a href="https://instagram.com/vikram.fx" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90" />
+  </a>
+</div>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikramfx/vikramfx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikramfx/vikramfx/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/vikramfx/vikramfx/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <h3>🎯 Weekly Development Breakdown</h3>
+  
+```text
+JavaScript   12 hrs 15 mins  ████████████░░░░░░░  48.8%
+React        8 hrs 12 mins   ██████░░░░░░░░░░░░░  32.7%
+Laravel      2 hrs 45 mins   ███░░░░░░░░░░░░░░░░  11.0%
+PHP          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░   4.7%
+Other        42 mins         ░░░░░░░░░░░░░░░░░░░   2.8%
+```
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling"/>
 </div>
