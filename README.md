@@ -1,95 +1,20 @@
-<div align="center">
-  <!-- Animated Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences&descAlignY=55&descAlign=50" width="100%"/>
-
-  <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Frontend+%7C+Backend+%7C+Mobile;MERN+Stack+%7C+React+Native+%7C+AWS" alt="Typing SVG" />
-  </a>
-
-  <!-- Animated Stats Cards -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B2FF&icon_color=00B2FF&text_color=FFFFFF" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF" width="49%" />
-  </div>
-
-  <!-- Tech Stack with Hover Effects -->
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
-    Tech Stack
-  </h2>
-
-  <!-- Frontend -->
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  </div>
-
-  <!-- Backend -->
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </div>
-
-  <!-- DevOps -->
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </div>
-
-  <!-- Animated Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00B2FF&line=00B2FF&point=FFFFFF" width="100%" />
-
-  <!-- Animated Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" />
-
-  <!-- Connect Section with Hover Effects -->
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24px" height="24px">
-    Let's Connect
-  </h2>
-
-  <div style="margin: 20px 0;">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:YOUR_EMAIL">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </div>
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00B2FF" />
-
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=100&section=footer" width="100%" />
-</div>
-
-<!-- Add this to your CSS (can be added in a style tag or separate CSS file) -->
-<style>
-  /* Smooth hover transitions */
-  img {
-    transition: transform 0.3s ease;
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-  }
-
-  /* Gradient text effect */
-  h2 {
-    background: linear-gradient(90deg, #00B2FF, #0066FF);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-  }
-</style>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=300&section=header&text=Vikram%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/> <!-- Modern Banner --> <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge&logo=dev.to" width="250"> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=75&lines=Full+Stack+%26+Mobile+App+Developer;MERN+%7C+Laravel+%7C+React+Native" /> <!-- Developer Icon --> <img src="https://img.shields.io/badge/Developer-Frontend | Backend-blue?style=for-the-badge" width="250"> </div> <div align="center"> <!-- Profile Views & GitHub Stats Badges --> <a href="https://github.com/vikramfx"> <img src="https://komarev.com/ghpvc/?username=vikramfx&style=for-the-badge&color=00B0FF&label=PROFILE+VIEWS" height="25" alt="Profile Views"> </a> <a href="https://github.com/vikramfx?tab=followers"> <img src="https://img.shields.io/github/followers/vikramfx?style=for-the-badge&color=00B0FF" height="25" alt="Followers"> </a> </div> <h2> <img src="https://img.shields.io/badge/💻-Tech%20Stack-blue?style=flat-square" width="120"> Tech Stack & Skills </h2> <div align="center"> <!-- Tech Icons Row 1 --> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <!-- Tech Icons Row 2 --> <div style="margin-top: 10px;"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </div> </div> <h2> <img src="https://img.shields.io/badge/🎯-Expertise-blue?style=flat-square" width="100"> My Expertise </h2>
+const expertise = {
+  frontend: {
+    web: ['React', 'Next.js', 'TypeScript', 'Redux', 'Tailwind'],
+    mobile: ['React Native', 'Expo', 'Android Studio'],
+    ui: ['Material UI', 'Chakra UI', 'Styled Components'],
+  },
+  backend: {
+    node: ['Express', 'NestJS', 'Socket.IO', 'GraphQL'],
+    php: ['Laravel', 'RESTful APIs', 'Microservices'],
+    databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis'],
+  },
+  devops: {
+    cloud: ['AWS', 'Docker', 'Kubernetes', 'CI/CD'],
+    monitoring: ['ELK Stack', 'Prometheus', 'Grafana'],
+  },
+  architecture: ['MVC', 'MVVM', 'Clean Architecture', 'DDD'],
+  currentlyLearning: ['System Design', 'Cloud Architecture']
+}
+<h2> <img src="https://img.shields.io/badge/📊-Analytics-blue?style=flat-square" width="100"> GitHub Analytics </h2> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramfx&theme=radical&hide_border=true&ring=FF8AE2&fire=FF8AE2&currStreakLabel=FF8AE2" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=vikramfx&show_icons=true&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" width="49%" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vikramfx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" /> </div> <h2> <img src="https://img.shields.io/badge/🚀-Projects-blue?style=flat-square" width="100"> Projects & Contributions </h2> <div align="center"> <!-- Project Cards --> <a href="https://github.com/vikramfx/E-commerce-webapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" /> </a> <a href="https://github.com/vikramfx/Beer-website-"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_2&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" /> </a> </div> <h2> <img src="https://img.shields.io/badge/🤝-Connect-blue?style=flat-square" width="100"> Let's Connect </h2> <div align="center"> <!-- Social Icons --> <a href="https://linkedin.com/in/vikram-kumar01"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:vikramsinghania333@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://instagram.com/vikram.fx"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div> <div align="center"> <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-🙏-blue?style=for-the-badge" width="250"> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=100&section=footer&animation=twinkling" width="100%"> </div>
