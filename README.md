@@ -33,23 +33,7 @@
 </div>
 
 <!-- Modern Expertise Section with Custom Design -->
-```typescript
-interface TechStack {
-  frontend: {
-    web: string[];
-    mobile: string[];
-    design: string[];
-  };
-  backend: {
-    node: string[];
-    php: string[];
-    databases: string[];
-  };
-  devops: {
-    cloud: string[];
-    monitoring: string[];
-  };
-}
+
 
 const expertise: TechStack = {
   frontend: {
@@ -64,7 +48,6 @@ const expertise: TechStack = {
   },
   devops: {
     cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-    monitoring: ["ELK Stack", "Prometheus", "Grafana"],
   }
 };
 ```
@@ -75,7 +58,7 @@ const expertise: TechStack = {
 </h2>
 
 <div align="center">
-  <a href="https://github.com/vikramfx/project1">
+  <a href="https://enchanting-trifle-6f8fed.netlify.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&border_radius=20" />
   </a>
   <a href="https://github.com/vikramfx/project2">
