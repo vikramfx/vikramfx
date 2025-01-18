@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=300&section=header&text=Vikram%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=300&section=header&text=Vikram%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
-  <!-- Animated Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <!-- Modern Banner -->
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge&logo=dev.to" width="250">
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=75&lines=Full+Stack+%26+Mobile+App+Developer;MERN+%7C+Laravel+%7C+React+Native" />
   
-  <!-- Animated Developer Icon -->
-  <img src="https://user-images.190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100"> 
+  <!-- Developer Icon -->
+  <img src="https://img.shields.io/badge/Developer-Frontend | Backend-blue?style=for-the-badge" width="250">
 </div>
 
 <div align="center">
@@ -23,33 +23,31 @@
 </div>
 
 <h2>
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45">
+  <img src="https://img.shields.io/badge/💻-Tech%20Stack-blue?style=flat-square" width="120">
   Tech Stack & Skills
 </h2>
 
 <div align="center">
-  <!-- Animated Tech Icons Row 1 -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
-  <img src="https://user-images.190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70">
-  <img src="https://user-images.190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">
-  <img src="https://user-images.190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70">
+  <!-- Tech Icons Row 1 -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   
-  <!-- Animated Tech Icons Row 2 -->
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,redis,firebase" />
-  
-  <!-- Animated Development Icons -->
-  <div>
-    <img src="https://user-images.190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="70">
+  <!-- Tech Icons Row 2 -->
+  <div style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   </div>
 </div>
 
 <h2>
-  <img src="https://user-images.190/213910842-c5aa4876-6fe1-4e59-8c93-8c6d3422eb5c.gif" width="45">
+  <img src="https://img.shields.io/badge/🎯-Expertise-blue?style=flat-square" width="100">
   My Expertise
 </h2>
 
@@ -75,7 +73,7 @@ const expertise = {
 ```
 
 <h2>
-  <img src="https://user-images.190/214201797-15c8a23e-1fc1-4ce7-9da6-36a66c8b5353.gif" width="45">
+  <img src="https://img.shields.io/badge/📊-Analytics-blue?style=flat-square" width="100">
   GitHub Analytics
 </h2>
 
@@ -89,47 +87,43 @@ const expertise = {
 </div>
 
 <h2>
-  <img src="https://user-images.190/213910616-fbef8839-893a-4da4-9c99-cc47abc123d2.gif" width="45">
+  <img src="https://img.shields.io/badge/🚀-Projects-blue?style=flat-square" width="100">
   Projects & Contributions
 </h2>
 
 <div align="center">
-  <!-- Animated Project Cards -->
-  <a href="https://github.com/vikramfx/project1">
+  <!-- Project Cards -->
+  <a href="https://github.com/vikramfx/E-commerce-webapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" />
   </a>
-  <a href="https://github.com/vikramfx/project2">
+  <a href="https://github.com/vikramfx/Beer-website-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=YOUR_PROJECT_2&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" />
   </a>
 </div>
 
 <h2>
-  <img src="https://user-images.190/213911110-7c59796f-5496-40f7-a3c3-c01d9b66087c.gif" width="45">
+  <img src="https://img.shields.io/badge/🤝-Connect-blue?style=flat-square" width="100">
   Let's Connect
 </h2>
 
 <div align="center">
-  <!-- Animated Social Icons -->
+  <!-- Social Icons -->
   <a href="https://linkedin.com/in/vikram-kumar01">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c5334422-c4c1-4354-a20a-887f9b336c72" width="80">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vikramsinghania333@gmail.com">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c727e6d4-63b4-42a1-a450-42052a1c6078" width="80">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://instagram.com/vikram.fx">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
 <div align="center">
-  <!-- Animated Coding GIF -->
-  <img src="https://user-images.190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-  
-  
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-🙏-blue?style=for-the-badge" width="250">
+</div>
 
-<!-- Animated Footer -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://user-images.190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
-  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=100&section=footer&animation=twinkling" width="100%">
 </div>
