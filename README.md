@@ -99,10 +99,10 @@ const expertise = {
 <div align="center">
   <!-- Animated Project Cards -->
   <a href="https://enchanting-trifle-6f8fed.netlify.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=project1&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" />
+    <img src="https://github.com/vikramfx/Portfolio-Main/blob/main/assets/images/portfolio/portfolio-06.jpg" />
   </a>
   <a href="https://vikramfx.github.io/Beer-website-/">
-    <img src="https://github.com/vikramfx/Portfolio-Main/blob/main/assets/images/portfolio/portfolio-06.jpg" />
+    <img src="https://github.com/vikramfx/Portfolio-Main/blob/main/assets/images/portfolio/portfolio-03.jpg" />
   </a>
 </div>
 
