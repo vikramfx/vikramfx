@@ -8,7 +8,7 @@
 
 <!-- Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=75&lines=Full+Stack+%26+Mobile+App+Developer;MERN+%7C+Laravel+%7C+React+Native"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=75&lines=Website+%26+Mobile+App+Developer;MERN+%7C+Laravel+%7C+React+Native"/>
   <img src="https://img.shields.io/badge/Developer-Frontend | Backend-blue?style=for-the-badge" width="250">
 </div>
 
@@ -98,11 +98,11 @@ const expertise = {
 
 <div align="center">
   <!-- Animated Project Cards -->
-  <a href="https://github.com/vikramfx/project1">
+  <a href="https://enchanting-trifle-6f8fed.netlify.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=project1&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" />
   </a>
-  <a href="https://github.com/vikramfx/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vikramfx&repo=project2&theme=radical&hide_border=true&title_color=FF8AE2&icon_color=FF8AE2" />
+  <a href="https://vikramfx.github.io/Beer-website-/">
+    <img src="https://github.com/vikramfx/Portfolio-Main/blob/main/assets/images/portfolio/portfolio-06.jpg" />
   </a>
 </div>
 
@@ -134,7 +134,4 @@ const expertise = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=100&section=footer&animation=twinkling" width="100%">
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vikramfx/vikramfx/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
+
